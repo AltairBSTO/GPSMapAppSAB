@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPSMapApp</string>
+
+        <string name="map_description">Mapa de ubicación</string>
+        <!-- Otras cadenas -->
+
+</resources>
